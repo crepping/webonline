@@ -1,0 +1,7 @@
+[09-Jun-2020 06:34:04 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet/public_html/f_guardar/reservar.php on line 2
+[09-Jun-2020 06:34:04 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php73/usr/share/pear') in /home/aiepnet/public_html/f_guardar/reservar.php on line 2
+[09-Jun-2020 06:34:04 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet/public_html/f_guardar/reservar.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet/public_html/f_guardar/reservar.php on line 3
+[09-Jun-2020 19:53:48 UTC] PHP Notice:  Undefined index: demo in /home/aiepnet1/public_html/f_guardar/reservar.php on line 5

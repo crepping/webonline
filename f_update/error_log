@@ -1,0 +1,146 @@
+[09-Jun-2020 21:59:54 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 21:59:54 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 21:59:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 21:59:56 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 21:59:56 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 21:59:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:00:00 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:00:00 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:00:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:00:00 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:00:00 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:00:00 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:00:40 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:00:40 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:00:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:05:56 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:05:56 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:05:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:06:53 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:06:53 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:06:53 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:09:28 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:09:28 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:09:28 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:10:47 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:10:47 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:10:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:10:54 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:10:54 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:10:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:11:55 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:11:55 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:11:55 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:11:59 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:11:59 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:11:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:13:20 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:13:20 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:13:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:13:52 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:13:52 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 19
+[09-Jun-2020 22:13:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_confirmar.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 20
+[09-Jun-2020 22:14:18 UTC] PHP Notice:  Undefined index: codigo1 in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 21
+[09-Jun-2020 22:14:20 UTC] PHP Notice:  Undefined index: codigo1 in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 21
+[09-Jun-2020 22:14:23 UTC] PHP Notice:  Undefined index: codigo1 in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 21
+[09-Jun-2020 22:14:43 UTC] PHP Notice:  Undefined index: codigo1 in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 21
+[09-Jun-2020 22:32:06 UTC] PHP Notice:  Undefined index: codigo1 in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 22
+[09-Jun-2020 22:33:16 UTC] PHP Notice:  Undefined index: codigo in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 22
+[09-Jun-2020 22:33:46 UTC] PHP Notice:  Undefined index: codigo in /home/aiepnet1/public_html/f_update/re_confirmar.php on line 22
+[09-Jun-2020 22:36:22 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:36:22 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:36:22 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:39:18 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:39:18 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:39:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:42:21 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:42:21 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:42:21 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:42:47 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:42:47 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:42:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:43:48 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:43:48 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:43:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:45:34 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:45:34 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:45:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:45:36 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:45:36 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:45:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:45:37 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:45:37 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:45:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 22:47:54 UTC] PHP Warning:  include(../config/config.php): failed to open stream: No such file or directory in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:47:54 UTC] PHP Warning:  include(): Failed opening '../config/config.php' for inclusion (include_path='.:/opt/alt/php74/usr/share/pear') in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 19
+[09-Jun-2020 22:47:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Conectar() in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 20
+[09-Jun-2020 23:39:56 UTC] PHP Notice:  Undefined index: borrar in /home/aiepnet1/public_html/f_update/re_borrar_reserva.php on line 21
